@@ -63,3 +63,10 @@
     <h3>Bibliotecas</h3>
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
   </div>
+
+
+  </div>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ismael&show_icons=true&locale=en&layout=compact" alt="dev-ismael" /></p>
+
+ </div>
