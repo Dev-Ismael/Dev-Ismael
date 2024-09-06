@@ -31,7 +31,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Visualização do meu primeiro site](https://github.com/Dev-Ismael/Projeto.Site)
+- [Meu primeiro site: HTML/CSS](https://github.com/Dev-Ismael/Projeto.Site)
 
 
 
