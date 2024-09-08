@@ -1,7 +1,7 @@
 # Portfólio de Ismael Piva
 Olá! Sou Ismael, um estudante apaixonado por Tecnologia e Desenvolvimento. Aqui você encontrará meus projetos, habilidades e informações sobre minha trajetória profissional.
 
-  Olá, eu sou Ismael! Sou graduado em Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade como desenvolvedor. Tenho paixão por tecnologia e estou sempre aprendendo e compartilhando conhecimento.
+  Sou graduado em Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade como desenvolvedor. Tenho paixão por tecnologia e estou sempre aprendendo e compartilhando conhecimento.
 </p>
 
 <!-- Dropdown -->
