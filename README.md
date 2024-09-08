@@ -37,13 +37,14 @@ Confira alguns dos meus projetos:
 - <img align="center" alt="HTML" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> HTML
 - <img align="center" alt="CSS" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> CSS
 - <img align="center" alt="JavaScript" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/> JavaScript
-- <img align="center" alt="Python" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> Python
+- <img align="center" alt="Python" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> Linguagem Python
 - <img align="center" alt="C#" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/> C#
 
 **Ferramentas e Frameworks**
 - <img align="center" alt="VSCode" height="24" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VSCode
+- <img align="center" alt="VisualStudio" height="24" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/> IDE Visual Studio
 - <img align="center" alt="Jupyter" height="24" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/> Jupyter
 - <img align="center" alt="Angular" height="24" width="24" src="https://angular.io/assets/images/logos/angular/angular.svg"/> Angular
 
 **Bibliotecas**
-- <img align="center" alt="React" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/> React
+- <img align="center" alt="React" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/> Biblioteca React
