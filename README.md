@@ -27,7 +27,8 @@ Olá! Sou Ismael, um estudante apaixonado por Tecnologia e Desenvolvimento. Aqui
 
 ## Meu Portfólio
 Confira alguns dos meus projetos:
-- [Projeto_Site](https://github.com/Dev-Ismael/Site_Portifolio_Basico) – Um projeto básico de site desenvolvido com HTML e CSS.
+- [Site_Portifolio_Basico](https://github.com/Dev-Ismael/Site_Portifolio_Basico) – Um projeto básico de site desenvolvido com HTML e CSS.
+- [Site_Portifolio_Basico](https://github.com/Dev-Ismael/Site_Portifolio_Basico) – Um projeto básico de site desenvolvido com HTML e CSS.
 
 
 
