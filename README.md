@@ -31,6 +31,7 @@ Confira alguns dos meus projetos:
 - [Site_Banda_Offspring](https://github.com/Dev-Ismael/Site_Banda_Offspring) – Um projeto mais elaborado, utilizando HTML5 e CSS3, que apresenta uma formatação avançada e design responsivo.
 - [Site_Vingadores](https://github.com/Dev-Ismael/Site_Vingadores) – Uma página de tributo dedicada à saga dos Vingadores, uma das franquias mais icônicas do universo cinematográfico. O site inclui:HTML e MUITO CSS.
 - [Calculadora_Python](https://github.com/Dev-Ismael/Calculadora_Python) – Uma calculadora funcional desenvolvida em Python, demonstrando a capacidade de manipular entradas de usuário e realizar operações matemáticas básicas.
+- [Formulario_de_Anuncio_de_carro](https://github.com/Dev-Ismael/Formulario_carro) – Um projeto de formulario de anucio de carro, coleta informações essenciais sobre o carro, como título, preço, descrição, marca, modelo, kilometragem e opcionais. 
 
 
 
