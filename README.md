@@ -27,7 +27,7 @@ Olá! Sou Ismael, um estudante apaixonado por Tecnologia e Desenvolvimento. Aqui
 
 ## Meu Portfólio
 Confira alguns dos meus projetos:
-- [Finans](https://github.com/Dev-Ismael/Finans) – Um projeto para ajudar os usuários a gerenciar suas finanças pessoais de maneira simples e eficaz.
+- [Finans](https://github.com/Dev-Ismael/Finans) – Um projeto utilizando o Bootstrap para ajudar os usuários a gerenciar suas finanças pessoais de maneira simples e eficaz.
 - [Site_Portifolio_Basico](https://github.com/Dev-Ismael/Site_Portifolio_Basico) – Um projeto de site simples desenvolvido com HTML e CSS, ideal para exibir habilidades, cursos e Formação.
 - [Site_Banda_Offspring](https://github.com/Dev-Ismael/Site_Banda_Offspring) – Um projeto mais elaborado, utilizando HTML5 e CSS3, que apresenta uma formatação avançada e design responsivo.
 - [Site_Vingadores](https://github.com/Dev-Ismael/Site_Vingadores) – Uma página de tributo dedicada à saga dos Vingadores, uma das franquias mais icônicas do universo cinematográfico. O site inclui:HTML e MUITO CSS.
