@@ -49,6 +49,6 @@ Confira alguns dos meus projetos:
 - <img align="center" alt="VisualStudio" height="24" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/> IDE Visual Studio
 - <img align="center" alt="Jupyter" height="24" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/> Jupyter
 - <img align="center" alt="Angular" height="24" width="24" src="https://angular.io/assets/images/logos/angular/angular.svg"/> Angular
-
-**Bibliotecas**
 - <img align="center" alt="React" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/> Biblioteca React
+
+
