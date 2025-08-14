@@ -1,56 +1,86 @@
-# Portfólio de Ismael Piva
-Olá! Sou Ismael, um estudante apaixonado por Tecnologia e Desenvolvimento. Aqui você encontrará meus projetos, habilidades e informações sobre minha trajetória profissional.
+# 💻 Portfólio – Ismael Piva Vieira Lourenço Silva
 
-  Sou graduado em Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade como desenvolvedor. Tenho paixão por tecnologia e estou sempre aprendendo e compartilhando conhecimento.
-</p>
+📍 São Caetano do Sul – SP  
+📧 [Ismael.pLsilva@gmail.com](mailto:Ismael.pLsilva@gmail.com)  
+📱 (11) 97382-9190  
+🔗 [LinkedIn](https://www.linkedin.com/in/ismael-piva-a3a4a1264) | [GitHub](https://github.com/Dev-Ismael)  
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+---
 
-  ## Mais Sobre Mim
-- Idade: 20 anos
-- Localização: Brasil
-- Características: Atencioso, Amigável, Comunicativo, Confiável, Dedicado
-- Objetivo: Trabalhar em um ambiente colaborativo e produtivo, sempre buscando aprimorar minhas habilidades.
-</details>
+## 🎯 Objetivo
+Atuar como **Desenvolvedor de Sistemas**, aplicando minhas habilidades técnicas para criar soluções inovadoras e eficientes.
 
-<!-- Links -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-piva-a3a4a1264/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ismael.plsilva@gmail.com)
+---
+
+## 🧾 Resumo das Qualificações
+- 💬 **Suporte ao Cliente**: Atendimento, resolução de problemas e acompanhamento de demandas.  
+- 📊 **Análise de Dados**: Manipulação, consultas SQL e interpretação de informações.  
+- 💻 **Programação**: HTML, CSS, Java, C#, Python.  
+
+---
+
+## 🎓 Formação Acadêmica
+- **Análise e Desenvolvimento de Sistemas** – Universidade Anhembi Morumbi – *Concluído em 2024*  
+
+---
+
+## 📚 Formação Complementar
+- Desenvolvimento Back-End – SENAI *(2025)*  
+- Programação de Sistemas – SENAC *(2025)*  
+- Formação Front-End – SENAC SP *(2024)*  
+- Programação em C# – SENAC SP *(2024)*  
+- Python I, Fundamentos – SENAC SP *(2024)*  
+- Fundamentos de Lógica de Programação – SENAC *(2024)*  
+
+---
+
+## 🌎 Idiomas
+- **Inglês**: Leitura técnica  
+
+---
+
+## 🛠 Tecnologias e Ferramentas
+
+**Linguagens**  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="20"/> HTML  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="20"/> CSS  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="20"/> Java  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="20"/> C#  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"/> Python  
+
+**Ferramentas e Plataformas**  
+- ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) SQL Server  
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) GitHub  
+- IntelliJ IDEA, VSCode, Visual Studio  
+- CRM Dynamics 365, TopDesk, BigQuery  
+- Windows, Linux, Android  
+- Pacote Office (Excel, Word, PowerPoint)  
+
+---
+
+## 📂 Experiência Profissional
+
+**Proevento Tecnologia** *(Abr/2025 – Atualmente)*  
+*Analista de Suporte em TI*  
+- Suporte a clientes e configuração de sistemas para eventos.  
+- Consultas em banco de dados e geração de relatórios.  
+- Formatação de textos em HTML e resolução de problemas técnicos.  
+- Criação e atualização de documentação técnica.  
 
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dev-ismael&show_icons=true&theme=gotham)
-![Línguas mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=dev-ismael&show_icons=true&locale=en&layout=compact)
+---
 
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dev-ismael&show_icons=true&theme=gotham)  
+![Línguas mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=dev-ismael&layout=compact&theme=gotham)  
 
-## Meu Portfólio
-Confira alguns dos meus projetos:
-- [Finans](https://github.com/Dev-Ismael/Finans) – Um projeto utilizando o Bootstrap para ajudar os usuários a gerenciar suas finanças pessoais de maneira simples e eficaz.
-- [Site_Portifolio_Basico](https://github.com/Dev-Ismael/Site_Portifolio_Basico) – Um projeto de site simples desenvolvido com HTML e CSS, ideal para exibir habilidades, cursos e Formação.
-- [Site_Banda_Offspring](https://github.com/Dev-Ismael/Site_Banda_Offspring) – Um projeto mais elaborado, utilizando HTML5 e CSS3, que apresenta uma formatação avançada e design responsivo.
-- [Site_Vingadores](https://github.com/Dev-Ismael/Site_Vingadores) – Uma página de tributo dedicada à saga dos Vingadores, uma das franquias mais icônicas do universo cinematográfico. O site inclui:HTML e MUITO CSS.
-- [Calculadora_Python](https://github.com/Dev-Ismael/Calculadora_Python) – Uma calculadora funcional desenvolvida em Python, demonstrando a capacidade de manipular entradas de usuário e realizar operações matemáticas básicas.
-- [Formulario_de_Anuncio_de_carro](https://github.com/Dev-Ismael/Formulario_carro) – Um projeto de formulario de anucio de carro, coleta informações essenciais sobre o carro, como título, preço, descrição, marca, modelo, kilometragem e opcionais.
-- [Site_HostHDC](https://github.com/Dev-Ismael/HostHDC) – Um projeto de exemplo para uma empresa de hospedagem de sites, demonstra um layout moderno e responsivo com seções para serviços, preços, busca de domínio e contato.
+---
 
+## 🚀 Projetos em Destaque
+- [**Finans**](https://github.com/Dev-Ismael/Finans) – Gerenciador de finanças pessoais com Bootstrap.   
+- [**Site Banda Offspring**](https://github.com/Dev-Ismael/Site_Banda_Offspring) – Página responsiva dedicada à banda Offspring.  
+- [**Site Vingadores**](https://github.com/Dev-Ismael/Site_Vingadores) – Tributo à saga Vingadores com HTML e CSS.  
+- [**Formulário de Anúncio de Carro**](https://github.com/Dev-Ismael/Formulario_carro) – Coleta de informações detalhadas sobre veículos.  
+- [**HostHDC**](https://github.com/Dev-Ismael/HostHDC) – Layout moderno e responsivo para empresa de hospedagem.  
 
-
-
-## Habilidades
-
-**Linguagens de Programação**
-- <img align="center" alt="HTML" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> HTML
-- <img align="center" alt="CSS" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> CSS
-- <img align="center" alt="JavaScript" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/> JavaScript
-- <img align="center" alt="Python" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> Linguagem Python
-- <img align="center" alt="C#" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/> C#
-
-**Ferramentas**
-- <img align="center" alt="VSCode" height="24" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VSCode
-- <img align="center" alt="VisualStudio" height="24" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/> IDE Visual Studio
-- <img align="center" alt="BigQuery" height="24" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> BigQuery
-- <img align="center" alt="Git" height="24" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git
-
-
+---
