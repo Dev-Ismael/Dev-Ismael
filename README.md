@@ -8,14 +8,24 @@
 ---
 
 ## 🎯 Objetivo
-Atuar como **Desenvolvedor de Sistemas**, aplicando minhas habilidades técnicas para criar soluções inovadoras e eficientes.
+Atuar como **Desenvolvedor de Sistemas**, aplicando minhas habilidades técnicas para criar soluções eficientes e inovadoras.
 
 ---
 
 ## 🧾 Resumo das Qualificações
-- 💬 **Suporte ao Cliente**: Atendimento, resolução de problemas e acompanhamento de demandas.  
-- 📊 **Análise de Dados**: Manipulação, consultas SQL e interpretação de informações.  
-- 💻 **Programação**: HTML, CSS, Java, C#, Python.  
+
+### 💡 Hard Skills
+- **Desenvolvimento Front-End:** Trabalhos com HTML5 e CSS3 para criação de páginas estruturadas e responsivas.  
+- **Programação Orientada a Objetos (POO):** Conhecimento em Java e C#, aplicando conceitos como encapsulamento, herança e polimorfismo.  
+- **Bancos de Dados Relacionais:** Criação e gerenciamento de tabelas, colunas e relacionamentos; execução de INSERT, UPDATE e SELECT; manipulação e consultas de dados.  
+- **Integração de Tecnologias:** Experiência prática combinando linguagens de programação, bancos de dados e ferramentas de versionamento.  
+
+### 🤝 Soft Skills
+- Resolução de problemas  
+- Inovação e otimização de processos  
+- Aprendizado contínuo  
+- Colaboração e comunicação  
+- Adaptabilidade e proatividade  
 
 ---
 
@@ -35,7 +45,7 @@ Atuar como **Desenvolvedor de Sistemas**, aplicando minhas habilidades técnicas
 ---
 
 ## 🌎 Idiomas
-- **Inglês**: Leitura técnica  
+- **Inglês:** Leitura técnica  
 
 ---
 
@@ -61,10 +71,11 @@ Atuar como **Desenvolvedor de Sistemas**, aplicando minhas habilidades técnicas
 
 **Proevento Tecnologia** *(Abr/2025 – Atualmente)*  
 *Analista de Suporte em TI*  
-- Suporte a clientes e configuração de sistemas para eventos.  
+- Prestar suporte técnico ao cliente e configurar sistemas para eventos.  
 - Consultas em banco de dados e geração de relatórios.  
 - Formatação de textos em HTML e resolução de problemas técnicos.  
-- Criação e atualização de documentação técnica.  
+- Criar e atualizar documentação técnica para clientes e equipe interna.  
+- Atuar proativamente na identificação e solução de falhas em tempo real.  
 
 
 ---
@@ -81,5 +92,3 @@ Atuar como **Desenvolvedor de Sistemas**, aplicando minhas habilidades técnicas
 - [**Site Vingadores**](https://github.com/Dev-Ismael/Site_Vingadores) – Tributo à saga Vingadores com HTML e CSS.  
 - [**Formulário de Anúncio de Carro**](https://github.com/Dev-Ismael/Formulario_carro) – Coleta de informações detalhadas sobre veículos.  
 - [**HostHDC**](https://github.com/Dev-Ismael/HostHDC) – Layout moderno e responsivo para empresa de hospedagem.  
-
----
