@@ -46,7 +46,6 @@ Atuar como **Desenvolvedor de Sistemas**, aplicando minhas habilidades técnicas
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="20"/> CSS  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="20"/> Java  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="20"/> C#  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"/> Python  
 
 **Ferramentas e Plataformas**  
 - ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) SQL Server  
