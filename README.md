@@ -50,21 +50,25 @@ Atuar como **Desenvolvedor de Sistemas**, aplicando minhas habilidades técnicas
 
 ---
 
-## 🛠 Tecnologias e Ferramentas
+## 🛠 Tecnologias e Ferramentas  
 
 **Linguagens**  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="20"/> HTML  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="20"/> CSS  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="20"/> JavaScript  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="20"/> Java  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="20"/> C#  
 
-**Ferramentas e Plataformas**  
+**Ferramentas e Bancos de Dados**  
 - ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) SQL Server  
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) PostgreSQL  
+- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) Git  
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) GitHub  
 - IntelliJ IDEA, VSCode, Visual Studio  
-- CRM Dynamics 365, TopDesk, BigQuery  
+- CRM Dynamics 365, TopDesk 
 - Windows, Linux, Android  
 - Pacote Office (Excel, Word, PowerPoint)  
+
 
 ---
 
