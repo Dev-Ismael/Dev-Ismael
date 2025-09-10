@@ -35,6 +35,7 @@ Atuar como **Desenvolvedor de Sistemas**, aplicando minhas habilidades técnicas
 ---
 
 ## 📚 Formação Complementar
+- Desenvolvimento JavaScript – SENAI *(2025)*  
 - Desenvolvimento Back-End – SENAI *(2025)*  
 - Programação de Sistemas – SENAC *(2025)*  
 - Formação Front-End – SENAC SP *(2024)*  
