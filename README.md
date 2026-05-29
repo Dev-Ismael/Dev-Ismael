@@ -31,7 +31,8 @@ Atuar como **Desenvolvedor de Sistemas**, aplicando minhas habilidades técnicas
 
 ## 🎓 Formação Acadêmica
 - **Análise e Desenvolvimento de Sistemas** – Universidade Anhembi Morumbi – *Concluído em 2024*  
-
+- **Pós-Graduação em Master Devops: Engineering & Tech Agile** – Universidade Anhembi Morumbi – *Cursando*
+- **Engenharia de Software** – Universidade Cidade de São Paulo – *Cursando*
 ---
 
 ## 📚 Formação Complementar
