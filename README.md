@@ -86,12 +86,6 @@ Atuar como **Desenvolvedor de Sistemas**, aplicando minhas habilidades técnicas
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dev-ismael&show_icons=true&theme=gotham)  
-![Línguas mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=dev-ismael&layout=compact&theme=gotham)  
-
----
-
 ## 🚀 Projetos em Destaque
 - [**Finans**](https://github.com/Dev-Ismael/Finans) – Gerenciador de finanças pessoais com Bootstrap.   
 - [**Site Banda Offspring**](https://github.com/Dev-Ismael/Site_Banda_Offspring) – Página responsiva dedicada à banda Offspring.  
