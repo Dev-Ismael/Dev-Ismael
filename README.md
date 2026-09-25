@@ -1,6 +1,6 @@
 # 💻 Portfólio – Ismael Piva Vieira Lourenço Silva
 
-📍 São Caetano do Sul – SP  
+📍 São Paulo – SP  
 📧 [Ismael.pLsilva@gmail.com](mailto:Ismael.pLsilva@gmail.com)  
 📱 (11) 97382-9190  
 🔗 [LinkedIn](https://www.linkedin.com/in/ismael-piva-a3a4a1264) | [GitHub](https://github.com/Dev-Ismael)  
@@ -87,8 +87,5 @@ Atuar como **Desenvolvedor de Sistemas**, aplicando minhas habilidades técnicas
 ---
 
 ## 🚀 Projetos em Destaque
+- [**Centro de Treinamento Hikari**](https://github.com/Dev-Ismael/Centro_de_Treinamento_Hikari-Website.git) – Website de academia de lutas.   
 - [**Finans**](https://github.com/Dev-Ismael/Finans) – Gerenciador de finanças pessoais com Bootstrap.   
-- [**Site Banda Offspring**](https://github.com/Dev-Ismael/Site_Banda_Offspring) – Página responsiva dedicada à banda Offspring.  
-- [**Site Vingadores**](https://github.com/Dev-Ismael/Site_Vingadores) – Tributo à saga Vingadores com HTML e CSS.  
-- [**Formulário de Anúncio de Carro**](https://github.com/Dev-Ismael/Formulario_carro) – Coleta de informações detalhadas sobre veículos.  
-- [**HostHDC**](https://github.com/Dev-Ismael/HostHDC) – Layout moderno e responsivo para empresa de hospedagem.  
