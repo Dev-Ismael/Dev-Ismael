@@ -88,4 +88,5 @@ Atuar como **Desenvolvedor de Sistemas**, aplicando minhas habilidades técnicas
 
 ## 🚀 Projetos em Destaque
 - [**Centro de Treinamento Hikari**](https://github.com/Dev-Ismael/Centro_de_Treinamento_Hikari-Website.git) – Website de academia de lutas.   
-- [**Finans**](https://github.com/Dev-Ismael/Finans) – Gerenciador de finanças pessoais com Bootstrap.   
+- [**Finans**](https://github.com/Dev-Ismael/Finans) – Gerenciador de finanças pessoais com Bootstrap.
+- [**Futebol Brasileiro**]([https://github.com/Dev-Ismael/Finans](https://github.com/Dev-Ismael/Projeto-do-Futebol-Brasileiro   )) – Informações do futebol brasileiro.
